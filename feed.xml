@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>muda</title>
+    <link href="https://dgrtg.github.io/muda/feed.xml" rel="self" />
+    <link href="https://dgrtg.github.io/muda" />
+    <updated>2026-11-16T03:12:17-03:00</updated>
+    <author>
+        <name>dgrtg</name>
+    </author>
+    <id>https://dgrtg.github.io/muda</id>
+
+    <entry>
+        <title>Olá mundo.</title>
+        <author>
+            <name>dgrtg</name>
+        </author>
+        <link href="https://dgrtg.github.io/muda/ola-mundo/"/>
+        <id>https://dgrtg.github.io/muda/ola-mundo/</id>
+            <category term="Teste"/>
+
+        <updated>2026-11-16T01:55:19-03:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

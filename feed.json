@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "muda",
+    "description": "",
+    "home_page_url": "https://dgrtg.github.io/muda",
+    "feed_url": "https://dgrtg.github.io/muda/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "dgrtg"
+    },
+    "items": [
+        {
+            "id": "https://dgrtg.github.io/muda/ola-mundo/",
+            "url": "https://dgrtg.github.io/muda/ola-mundo/",
+            "title": "Olá mundo.",
+            "content_html": "\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "dgrtg"
+            },
+            "tags": [
+                   "Teste"
+            ],
+            "date_published": "2026-11-16T01:55:19-03:00",
+            "date_modified": "2026-11-16T03:12:17-03:00"
+        }
+    ]
+}
