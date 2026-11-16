@@ -3,12 +3,24 @@
     <title>muda</title>
     <link href="https://dgrtg.github.io/muda/feed.xml" rel="self" />
     <link href="https://dgrtg.github.io/muda" />
-    <updated>2026-11-16T03:12:17-03:00</updated>
+    <updated>2026-11-16T03:56:54-03:00</updated>
     <author>
         <name>dgrtg</name>
     </author>
     <id>https://dgrtg.github.io/muda</id>
 
+    <entry>
+        <title>teste 3</title>
+        <author>
+            <name>dgrtg</name>
+        </author>
+        <link href="https://dgrtg.github.io/muda/teste-3/"/>
+        <id>https://dgrtg.github.io/muda/teste-3/</id>
+
+        <updated>2026-11-16T03:56:54-03:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Olá mundo.</title>
         <author>
